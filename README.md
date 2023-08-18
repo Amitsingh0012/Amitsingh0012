@@ -1,11 +1,6 @@
 <h1 align="center"></h1><h6>Hi 👋, I am a dedicated individual who has mastered Data Structures and Algorithms through solving over 200 coding questions on platforms like Geekster and LeetCode. With proficiency in Java, Spring Boot, Hibernate, Rest APIs, and SQL, I have successfully developed functional APIs including an Expense Tracker and user management system. My commitment to growth is demonstrated by active participation in coding contests and completing certification programs in SQL and Java through Geekster. I am passionate about continuous learning and advancing my skills in the ever-evolving field of technology.</h6>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh0012&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh0012" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitsingh0012" alt="amitsingh0012" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot.**
 
